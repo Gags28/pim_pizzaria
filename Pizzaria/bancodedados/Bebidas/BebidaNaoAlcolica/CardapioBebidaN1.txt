@@ -1,0 +1,2 @@
+	1 Bebida 1
+ 	Valor 1.00

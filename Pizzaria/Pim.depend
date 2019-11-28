@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\alunos\desktop\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1573169615 source:c:\users\alunos\desktop\pim\codigos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
+1574810533 source:c:\users\guilh\onedrive\햞ea de trabalho\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574822464 source:c:\users\guilh\onedrive\햞ea de trabalho\pim\codigos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<dirent.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1574896212 source:c:\pizzaria\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574898583 source:c:\pizzaria\codigos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<dirent.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1574881472 source:c:\users\gagsi\onedrive\햞ea de trabalho\pizzaria\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574901505 source:c:\users\gagsi\onedrive\햞ea de trabalho\pizzaria\codigos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<dirent.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
